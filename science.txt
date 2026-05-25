@@ -1,0 +1,210 @@
+1
+What is the chemical symbol for table salt?
+NaCl
+H2O
+CO2
+O2
+A
+1
+What is the process called when a liquid turns into a gas?
+Condensation
+Sublimation
+Evaporation
+Melting
+C
+1
+Which planet is known as the "Red Planet"?
+Venus
+Mars
+Jupiter
+Mercury
+B
+1
+How many bones are typically found in the adult human body?
+100
+206
+300
+150
+B
+1
+What does the acronym DNA stand for?
+Direct Nucleic Access
+Deoxyribonucleic Acid
+Digital Neutral Arrangement
+Double Nitrogen Atom
+B
+1
+Which force keeps planets orbiting the sun?
+Tension
+Friction
+Gravity
+Magnetism
+C
+1
+What is the primary component of the sun?
+Oxygen
+Iron
+Hydrogen and Helium
+Carbon
+C
+1
+What is the unit used to measure temperature in most scientific settings?
+Fahrenheit
+Celsius
+Kelvin
+Rankine
+C
+1
+What is the common term for a doctor who specializes in the treatment of animals?
+Biologist
+Veterinarian
+Zoologist
+Surgeon
+B
+1
+What is the chemical symbol for the element Gold?
+Gd
+Go
+Au
+Ag
+C
+2
+What is the largest organ in the human body?
+Heart
+Liver
+Brain
+Skin
+D
+2
+The bending of light as it passes from one medium to another is called what?
+Reflection
+Refraction
+Diffraction
+Dispersion
+B
+2
+At what temperature does pure water boil at standard atmospheric pressure in Celsius?
+0
+50
+100
+-10
+C
+2
+What unit is used to measure electrical current?
+Volt
+Ohm
+Watt
+Ampere
+D
+2
+Which process allows plants to create their own food using sunlight?
+Respiration
+Photosynthesis
+Transpiration
+Germination
+B
+2
+Which particle in an atom carries a positive electrical charge?
+Neutron
+Electron
+Proton
+Quark
+C
+2
+In biology, what is the structure responsible for producing energy (ATP) in the cell?
+Nucleus
+Ribosome
+Mitochondrion
+Endoplasmic Reticulum
+C
+2
+Which term describes a non-renewable fuel formed from the remains of ancient living organisms?
+Biofuel
+Solar Energy
+Fossil Fuel
+Hydro Power
+C
+2
+The Richter scale is used to measure the magnitude of what natural phenomenon?
+Tornadoes
+Volcanic Eruptions
+Earthquakes
+Hurricanes
+C
+2
+What is the name for a substance that has a pH level lower than 7?
+Neutral
+Alkaline
+Acid
+Base
+C
+3
+In genetics, what term describes an organism's observable characteristics, resulting from the interaction of its genotype with the environment?
+Allele
+Genome
+Phenotype
+Chromosome
+C
+3
+Which force holds the nucleus of an atom together?
+Electromagnetic Force
+Gravitational Force
+Strong Nuclear Force
+Weak Nuclear Force
+C
+3
+What is the scientific law that states energy cannot be created or destroyed, only transformed?
+Law of Gravity
+Law of Conservation of Mass
+Law of Conservation of Energy
+Ohm's Law
+C
+3
+Which type of rock is formed from the cooling and solidification of molten magma or lava?
+Sedimentary
+Metamorphic
+Igneous
+Limestone
+C
+3
+What is the main function of the kidneys in the human body?
+Pumping blood
+Filtering waste products from the blood
+Producing hormones
+Digesting food
+B
+3
+The half-life of a radioactive isotope is the time it takes for what fraction of the sample to decay?
+One-quarter
+One-third
+One-half
+Three-quarters
+C
+3
+Which type of lens is thinner in the middle and thicker at the edges, causing light rays to diverge?
+Convex Lens
+Concave Lens
+Planar Lens
+Cylindrical Lens
+B
+3
+In the context of fluid dynamics, what principle explains why an airplane wing generates lift?
+Boyle's Law
+Pascal's Principle
+Bernoulli's Principle
+Archimedes' Principle
+C
+3
+What is the name for a substance that speeds up a chemical reaction without being consumed in the process?
+Inhibitor
+Catalyst
+Reactant
+Solvent
+B
+3
+What does the term "homeostasis" refer to in biology?
+The process of evolution
+Maintaining a stable internal environment
+Cell division
+Reproduction in plants
+B

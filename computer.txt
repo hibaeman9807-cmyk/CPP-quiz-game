@@ -1,0 +1,210 @@
+1
+What does CPU stand for?
+Central Processing Unit
+Computer Program Unit
+Control Power Utility
+Central Power Unit
+A
+1
+What does RAM stand for?
+Read Access Module
+Random Access Memory
+Remote Access Mainframe
+Randomized Allocation Mode
+B
+1
+Which company developed the Windows operating system?
+Apple
+Google
+Microsoft
+IBM
+C
+1
+What is a graphical user interface commonly abbreviated as?
+GUI
+CLI
+API
+URL
+A
+1
+Which key is typically used to exit a running presentation or game?
+F1
+Enter
+Esc
+Spacebar
+C
+1
+What part of the computer stores information permanently?
+RAM
+Cache
+Hard Drive (HDD/SSD)
+Processor
+C
+1
+Which company developed the Python programming language?
+Microsoft
+Google
+Guido van Rossum
+Apple
+C
+1
+What is the file extension for a standard plain text file?
+.doc
+.txt
+.exe
+.zip
+B
+1
+What does "Wi-Fi" stand for?
+Wireless Fidelity
+Wired Fiber
+Web File
+Wireless File Transfer
+A
+1
+Which peripheral device is used to input text and characters?
+Mouse
+Monitor
+Printer
+Keyboard
+D
+2
+What is the primary function of an operating system (OS)?
+Running video games
+Managing hardware and software resources
+Designing graphics
+Writing documents
+B
+2
+What does the acronym HTTP stand for?
+High Transfer Technical Protocol
+Hyper Text Transfer Protocol
+Host Topology Transfer Program
+Hyperlink Tool Transfer Protocol
+B
+2
+Which data structure follows the Last-In, First-Out (LIFO) principle?
+Queue
+List
+Tree
+Stack
+D
+2
+What is the process of converting an algorithm into programming code called?
+Debugging
+Compiling
+Coding
+Executing
+C
+2
+In programming, what is a Boolean variable primarily used to represent?
+Large numbers
+Text strings
+True or False values
+Date and time
+C
+2
+Which protocol is used to send email?
+FTP
+HTTP
+SMTP
+POP3
+C
+2
+What is a compiler's main task?
+Running the program line by line
+Translating source code into machine code
+Managing the computer's memory
+Encrypting user data
+B
+2
+Which type of malware disguises itself as legitimate software?
+Worm
+Trojan Horse
+Spyware
+Adware
+B
+2
+In databases, what uniquely identifies each record in a table?
+Foreign Key
+Composite Key
+Primary Key
+Index
+C
+2
+What does the acronym DNS resolve?
+Digital Network Security
+Domain Name Server
+Data New System
+Device Naming Structure
+B
+3
+Which layer of the OSI model is responsible for routing data between networks?
+Physical Layer
+Data Link Layer
+Network Layer
+Transport Layer
+C
+3
+In object-oriented programming, what is the term for defining multiple methods with the same name but different parameters?
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+B
+3
+What is the complexity of a Quick Sort algorithm in the average case?
+O(n^2)
+O(n log n)
+O(n)
+O(log n)
+B
+3
+What is the term for a program that translates an entire program into machine code before execution?
+Interpreter
+Assembler
+Compiler
+Loader
+C
+3
+In computer architecture, what does the "pipeline" technique aim to improve?
+Memory capacity
+Instruction execution speed
+Data encryption strength
+Peripheral device compatibility
+B
+3
+What is the process of minimizing a program's source code by removing non-essential characters without changing its functionality called?
+Debugging
+Minification
+Virtualization
+Compiling
+B
+3
+Which numbering system is used primarily by CPUs for memory addressing and data representation?
+Decimal (Base 10)
+Binary (Base 2)
+Octal (Base 8)
+Hexadecimal (Base 16)
+B
+3
+In networking, what is the primary purpose of a subnet mask?
+To assign IP addresses to devices
+To filter malicious traffic
+To divide the IP address into network and host portions
+To translate domain names to IP addresses
+C
+3
+What does ACID stand for in the context of database transactions?
+Access, Control, Integrity, Data
+Atomicity, Consistency, Isolation, Durability
+Authentication, Cryptography, Identity, Destruction
+Array, Class, Index, Deletion
+B
+3
+What is a 'race condition' in concurrent programming?
+When two threads complete a task simultaneously
+When the output of a program depends on the unpredictable sequence of events
+An error caused by insufficient memory
+A bug found only on multi-core processors
+B

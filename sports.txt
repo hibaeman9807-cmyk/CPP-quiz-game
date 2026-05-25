@@ -1,0 +1,211 @@
+1
+How many players are on a soccer team on the field at one time?
+9
+10
+11
+12
+C
+1
+Which country hosts the Wimbledon tennis tournament?
+France
+Australia
+United States
+United Kingdom
+D
+1
+In basketball, how many points is a free throw worth?
+1
+2
+3
+4
+A
+1
+What is the highest possible score in a single frame of ten-pin bowling?
+150
+300
+250
+100
+B
+1
+In baseball, what does the term 'RBI' stand for?
+Run Base Intercept
+Runs Batted In
+Rally Ball Innings
+Run Back Inside
+B
+1
+Which color jersey is traditionally worn by the overall leader in the Tour de France cycling race?
+Green
+Polka Dot
+Yellow
+White
+C
+1
+Which sport uses the terms 'forehand' and 'backhand'?
+Basketball
+Volleyball
+Swimming
+Tennis
+D
+1
+In ice hockey, what is the object that players hit?
+Puck
+Ball
+Stick
+Shuttle
+A
+1
+What is the term for scoring one stroke under par on a single hole in golf?
+Bogey
+Eagle
+Birdie
+Albatross
+C
+1
+What does NASCAR stand for?
+National Stock Car Auto Racing
+North American Stock Car Association
+National Sport Car Alliance Racing
+New Automobile Racing
+A
+2
+What term is used in soccer when a player scores three goals in a single match?
+Brace
+Hat-trick
+Set-piece
+Penalty
+B
+2
+What is the maximum number of times a volleyball can be touched by one team before crossing the net?
+2
+3
+4
+5
+B
+2
+In American football, how many points are awarded for a field goal?
+1
+2
+3
+4
+C
+2
+The Summer Olympic Games are held every how many years?
+2
+3
+4
+5
+C
+2
+What is the standard length of a marathon race in miles (approximately)?
+20.2 miles
+26.2 miles
+30.0 miles
+42.2 miles
+B
+2
+Which stroke is considered the fastest in competitive swimming?
+Breaststroke
+Backstroke
+Freestyle (Crawl)
+Butterfly
+C
+2
+Which team won the first-ever Super Bowl in 1967?
+Dallas Cowboys
+Green Bay Packers
+Kansas City Chiefs
+New York Jets
+B
+2
+In horse racing, what is the term for a race where the horses must jump obstacles?
+Sprints
+Flat Race
+Steeplechase
+Hurdles
+C
+2
+What is the name of the traditional protective gear worn in the sport of fencing?
+Helmet
+Glove
+Mask
+Plastron
+C
+2
+What is the center line dividing the court in badminton called?
+Center mark
+Service line
+Net line
+Baseline
+B
+3
+The discipline of gymnastics that involves balancing, tumbling, and performing routines on the floor is known as:
+Rhythmic Gymnastics
+Artistic Gymnastics
+Trampoline Gymnastics
+Acrobatic Gymnastics
+B
+3
+The Olympic motto "Citius, Altius, Fortius" translates to what in English?
+Fast, High, Strong
+Faster, Higher, Stronger
+Swifter, Higher, Bolder
+Speed, Height, Strength
+B
+3
+The Grand Slam tournaments in tennis (Australian, French, Wimbledon, US) are played on how many different types of surface?
+2
+3
+4
+5
+B
+3
+What is the weight (in pounds) of a standard shot put used in men's international competition?
+8 lbs
+12 lbs
+16 lbs
+20 lbs
+C
+3
+Which athletic event involves the Hammer Throw, Javelin Throw, and Discus Throw as part of its competition?
+Pentathlon
+Heptathlon
+Decathlon
+Triathlon
+C
+3
+In boxing, what is the term for a ruling that occurs when a fighter is knocked down three times in a single round?
+Technical Knockout (TKO)
+Standing Eight Count
+Three Knockdown Rule
+Disqualification
+C
+3
+What is the maximum number of breaks a snooker player can score in a single turn without fouling?
+147
+155
+140
+135
+B
+3
+In which extreme sport would you perform a 'half-pipe' maneuver?
+BMX Racing
+Skateboarding
+Snowboarding
+Both B and C
+D
+3
+What is the name of the formal system of self-defense created by Choi Hong Hi that emphasizes jumping and spinning kicks?
+Judo
+Karate
+Taekwondo
+Aikido
+C
+3
+What is the distance of the men's competitive rowing event known as the "stroke"?
+1000m
+1500m
+2000m
+2500m
+C
+

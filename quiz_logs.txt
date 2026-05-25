@@ -1,0 +1,2 @@
+Player: rrr | Score: 0 | Time: Wed Dec 10 13:07:22 2025 | Attempted: 10 | Correct: 2 | Wrong: 8
+Player: Ali | Score: -50 | Time: Wed Dec 10 13:08:35 2025 | Attempted: 10 | Correct: 0 | Wrong: 10
